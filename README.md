@@ -19,6 +19,11 @@ Proyek ini merupakan aplikasi Web GIS (Geographic Information System) sederhana 
 - MySQL/MariaDB
 - Bootstrap, jQuery, FontAwesome
 
+## 📚 Referensi Pembelajaran
+
+- [YouTube Playlist – Membangun Web GIS Sekolah Codeigniter 4 + Leaflet](https://youtube.com/playlist?list=PLYfaT5HP5yRrZa_MW_eQymabg4oKVq3D1&si=lx3skJM382Oww9II)
+> Referensi utama dari seri pembelajaran di YouTube. Terima kasih kepada kreator konten atas ilmunya.
+
 ## 🚀 Cara Menjalankan Proyek
 
 1. **Clone repositori**
